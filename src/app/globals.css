@@ -225,6 +225,7 @@ body {
             img {
                 @apply object-cover w-full h-full;
             }
+            
         }
 
         .bottom-grid {

@@ -48,20 +48,23 @@ function About() {
               from muddle to garnish
             </h2>
           </div>
-        </div>
-        <div className="sub-content md:col-span-4">
-          <p>
-            Every cocktail we serve is a reflection of our obsession with detail
-            - from the first nuddle to the final garnish. That care is what
-            turns a simple drink into something truly memorable.
-          </p>
-          <div>
-            <p className="md:text-3xl text-xl font-bold">
-              <span>4.5</span>/5
+          <div className="sub-content ">
+            <p>
+              Every cocktail we serve is a reflection of our obsession with
+              detail - from the first nuddle to the final garnish. That care is
+              what turns a simple drink into something truly memorable.
             </p>
-            <p className="text-sm text-white-100">More than +12000 customers</p>
+            <div>
+              <p className="md:text-3xl text-xl font-bold">
+                <span>4.5</span>/5
+              </p>
+              <p className="text-sm text-white-100">
+                More than +12000 customers
+              </p>
+            </div>
           </div>
         </div>
+
         <div className="top-grid">
           <div className="md:col-span-3">
             <div className="noisy">
